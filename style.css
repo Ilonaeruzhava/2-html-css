@@ -1,0 +1,28 @@
+.box {
+    margin: 0px 100px 0px 100px;
+    padding: 5px 5px 5px 5px;
+    background-color: dodgerblue;
+    color:antiquewhite;
+   
+}
+.left {
+    float: left;
+    width: 20%;
+     text-justify: auto;
+}
+.right {
+   margin-left: 21%;
+}
+
+.navmenu {
+    display: inline-block;
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+    background-color:darkorchid;
+    justify-items: center;
+}
+#navmenu_1, #navmenu_2, #navmenu_3, #navmenu_4 {
+    display: inline-block;
+    margin: 2px 22px 2px 2px;
+    text-align: center;
+}
